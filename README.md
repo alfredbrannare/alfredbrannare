@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🏫 I’m currently learning Java
+- 📫 You can reach me by mailing: alfred-brannare@hotmail.com
+- 🌐 Portfolio: https://alfredbrannare-portfolio.vercel.app/
+
 
 <!--
 **alfredbrannare/alfredbrannare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
