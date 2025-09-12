@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is **Alfred** and I am a **Software Developer** student at Lernia, Sweden. 
+
 - 🏫 I’m currently learning Java
 - 📫 You can reach me by mailing: alfred-brannare@hotmail.com
 - 🌐 Portfolio: https://alfredbrannare-portfolio.vercel.app/
