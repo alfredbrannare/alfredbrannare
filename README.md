@@ -2,7 +2,7 @@
 My name is **Alfred** and I am a **Software Developer** student at Lernia, Sweden. 
 
 - 🏫 I’m currently learning Java
-- 📫 You can reach me by mailing: alfred-brannare@hotmail.com
+- 📫 You can reach me by mailing contacting me here on Github or through LinkedIn
 - 🌐 Portfolio: https://alfredbrannare-portfolio.vercel.app/
 
 
