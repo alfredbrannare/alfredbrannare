@@ -112,12 +112,6 @@
 
 ---
 
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredbrannare)
-
----
-
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
